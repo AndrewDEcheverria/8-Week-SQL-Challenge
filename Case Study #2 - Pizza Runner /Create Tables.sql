@@ -1,4 +1,4 @@
-
+-- Create Tables
 DROP TABLE IF EXISTS runners;
 CREATE TABLE runners (
   runner_id INTEGER,
